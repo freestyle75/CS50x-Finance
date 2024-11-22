@@ -2,9 +2,9 @@
 Developed a dynamic web application using Flask, Python, SQL, and JavaScript, as part of the CS50x curriculum. This application simulates a personal finance manager.
 
 
-# O Finance
+# Finance
 
-O Finance is a dynamic web application developed as part of the **CS50x curriculum**, simulating a personal finance manager with robust features for stock management and user portfolio tracking.
+ Finance is a dynamic web application developed as part of the **CS50x curriculum**, simulating a personal finance manager with robust features for stock management and user portfolio tracking.
 
 ## Features
 
@@ -33,9 +33,12 @@ O Finance is a dynamic web application developed as part of the **CS50x curricul
    git clone https://github.com/yourusername/o-finance.git
 # Navigate to the project directory:
 cd o-finance
+
 # Install Dependencies
 pip install -r requirements.txt
+
 #Set-up The Data-base
 flask db upgrade
+
 #Run the application:
 flask run
