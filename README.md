@@ -34,10 +34,10 @@ Developed a dynamic web application using Flask, Python, SQL, and JavaScript, as
 # Navigate to the project directory:
 cd o-finance
 
-# Install Dependencies
+# Install Dependencies:
 pip install -r requirements.txt
 
-#Set-up The Data-base
+#Set-up The Data-base:
 flask db upgrade
 
 #Run the application:
